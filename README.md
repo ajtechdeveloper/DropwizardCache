@@ -1,5 +1,5 @@
 # Dropwizard Guava Cache Integration
 
-[![Build Status](https://travis-ci.org/ajtechdeveloper/DropwizardCache.svg?branch=master)](https://travis-ci.org/ajtechdeveloper/DropwizardCache)
+[![build](https://github.com/ajtechdeveloper/DropwizardCache/actions/workflows/build.yml/badge.svg)](https://github.com/ajtechdeveloper/DropwizardCache/actions/workflows/build.yml)
 
 Dropwizard Application with Google Guava Cache
